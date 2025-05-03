@@ -15,7 +15,7 @@ This project demonstrates how to build a simple REST API using **Spring Boot** t
 
 ## Technologies Used
 
-- Java 17
+- Java 21
 - Spring Boot
 - Apache Kafka
 - Docker & Docker Compose
